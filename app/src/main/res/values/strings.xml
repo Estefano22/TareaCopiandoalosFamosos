@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TareaCopiandoalosFamosos</string>
+    <string name="p">p</string>
+    <string name="preview_purchase">Preview Purchase</string>
 </resources>
